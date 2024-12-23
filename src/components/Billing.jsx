@@ -18,9 +18,9 @@ const Billing = () => (
         invoicing
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+      Arch-shaped, in the curve, pure in the midst of motion and surrounded by structured flow.
+       A collection seeks to gather, creating a form of connected strength—elevating directional 
+       clarity and unique bond-stream.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
